@@ -160,7 +160,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.77522683"
-     inkscape:cx="397.89692"
+     inkscape:cx="329.13529"
      inkscape:cy="392.24195"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -187,7 +187,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -380,7 +380,7 @@
       </g>
     </g>
     <rect
-       style="opacity:0.5;vector-effect:none;fill:url(#radialGradient916);fill-opacity:1;stroke:#464646;stroke-width:1.23500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       style="opacity:1;vector-effect:none;fill:url(#radialGradient916);fill-opacity:1;stroke:#464646;stroke-width:1.23500001;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="rect908"
        width="211.66667"
        height="158.75"
@@ -512,25 +512,7 @@
          x="152.0289"
          y="117.43192"
          style="font-size:6.3499999px;fill:#161616;fill-opacity:1;stroke-width:0.26458332">Title2</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1489-4-3"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,122.35686,75.163154)"><flowRegion
-         id="flowRegion1491-5-5"
-         style="fill:#000000;fill-opacity:1"><rect
-           id="rect1493-5-4"
-           width="174.14256"
-           height="150.92355"
-           x="86.426315"
-           y="171.22206"
-           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara1495-6-7"
-         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Texte texte</flowPara><flowPara
-         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara1567">         texte texte</flowPara><flowPara
-         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
-         id="flowPara1569">         texte</flowPara></flowRoot>    <text
+    <text
        xml:space="preserve"
        style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:sans-serif;-inkscape-font-specification:'sans-serif Bold';letter-spacing:0px;word-spacing:0px;fill:#ff7206;fill-opacity:1;stroke:none;stroke-width:0.26458332"
        x="109.75407"
@@ -541,21 +523,7 @@
          x="109.75407"
          y="167.56842"
          style="font-size:6.3499999px;fill:#ff7206;fill-opacity:1;stroke-width:0.26458332">Title3</tspan></text>
-    <flowRoot
-       xml:space="preserve"
-       id="flowRoot1489-4-6"
-       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7206;fill-opacity:1;stroke:none"
-       transform="matrix(0.26458333,0,0,0.26458333,94.20377,121.02011)"><flowRegion
-         id="flowRegion1491-5-9"
-         style="fill:#ff7206;fill-opacity:1"><rect
-           id="rect1493-5-8"
-           width="172.85262"
-           height="112.22521"
-           x="86.426315"
-           y="171.22206"
-           style="fill:#ff7206;fill-opacity:1" /></flowRegion><flowPara
-         id="flowPara1495-6-1"
-         style="font-size:18.66666603px;line-height:0.25;fill:#ff7206;fill-opacity:1">Texte texte texte texte texte</flowPara></flowRoot>    <path
+    <path
        sodipodi:type="star"
        style="opacity:1;vector-effect:none;fill:#ffff00;fill-opacity:0.70980392;stroke:#fd2f01;stroke-width:0.70742494;stroke-linecap:round;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
        id="path1621"
@@ -577,7 +545,21 @@
        cx="160.31514"
        cy="183.09694"
        r="5.1655989" />
-    <g
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1489-4-6"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff7206;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,94.20377,121.02011)"><flowRegion
+         id="flowRegion1491-5-9"
+         style="fill:#ff7206;fill-opacity:1"><rect
+           id="rect1493-5-8"
+           width="172.85262"
+           height="112.22521"
+           x="86.426315"
+           y="171.22206"
+           style="fill:#ff7206;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara1495-6-1"
+         style="font-size:18.66666603px;line-height:0.25;fill:#ff7206;fill-opacity:1">Texte texte texte texte texte</flowPara></flowRoot>    <g
        sodipodi:type="inkscape:box3d"
        id="g1627"
        inkscape:perspectiveID="#perspective1625"
@@ -588,44 +570,62 @@
          sodipodi:type="inkscape:box3dside"
          id="path1629"
          inkscape:box3dsidetype="6"
-         d="m 175.41252,149.66022 v 8.99025 l 5.34049,-3.05992 v -6.87486 z"
-         points="175.41252,158.65047 180.75301,155.59055 180.75301,148.71569 175.41252,149.66022 "
+         d="m 175.41252,149.66021 v 8.99025 l 5.34049,-3.05992 v -6.87486 z"
+         points="175.41252,158.65046 180.75301,155.59054 180.75301,148.71568 175.41252,149.66021 "
          style="fill:#353564;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1637"
          inkscape:box3dsidetype="13"
-         d="m 175.41252,158.65047 8.19681,0.81402 3.52141,-3.35591 -6.37773,-0.51803 z"
-         points="183.60933,159.46449 187.13074,156.10858 180.75301,155.59055 175.41252,158.65047 "
+         d="m 175.41252,158.65046 8.19681,0.81403 3.52141,-3.35592 -6.37773,-0.51803 z"
+         points="183.60933,159.46449 187.13074,156.10857 180.75301,155.59054 175.41252,158.65046 "
          style="fill:#afafde;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1639"
          inkscape:box3dsidetype="11"
-         d="m 180.75301,148.71569 6.37773,0.29715 v 7.09574 l -6.37773,-0.51803 z"
-         points="187.13074,149.01284 187.13074,156.10858 180.75301,155.59055 180.75301,148.71569 "
+         d="m 180.75301,148.71568 6.37773,0.29716 v 7.09573 l -6.37773,-0.51803 z"
+         points="187.13074,149.01284 187.13074,156.10857 180.75301,155.59054 180.75301,148.71568 "
          style="fill:#e9e9ff;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1631"
          inkscape:box3dsidetype="5"
-         d="m 175.41252,149.66022 8.19681,0.43255 3.52141,-1.07993 -6.37773,-0.29715 z"
-         points="183.60933,150.09277 187.13074,149.01284 180.75301,148.71569 175.41252,149.66022 "
+         d="m 175.41252,149.66021 8.19681,0.43255 3.52141,-1.07992 -6.37773,-0.29716 z"
+         points="183.60933,150.09276 187.13074,149.01284 180.75301,148.71568 175.41252,149.66021 "
          style="fill:#4d4d9f;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1635"
          inkscape:box3dsidetype="14"
-         d="m 183.60933,150.09277 v 9.37172 l 3.52141,-3.35591 v -7.09574 z"
-         points="183.60933,159.46449 187.13074,156.10858 187.13074,149.01284 183.60933,150.09277 "
+         d="m 183.60933,150.09276 v 9.37173 l 3.52141,-3.35592 v -7.09573 z"
+         points="183.60933,159.46449 187.13074,156.10857 187.13074,149.01284 183.60933,150.09276 "
          style="fill:#d7d7ff;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
       <path
          sodipodi:type="inkscape:box3dside"
          id="path1633"
          inkscape:box3dsidetype="3"
-         d="m 175.41252,149.66022 8.19681,0.43255 v 9.37172 l -8.19681,-0.81402 z"
-         points="183.60933,150.09277 183.60933,159.46449 175.41252,158.65047 175.41252,149.66022 "
+         d="m 175.41252,149.66021 8.19681,0.43255 v 9.37173 l -8.19681,-0.81403 z"
+         points="183.60933,150.09276 183.60933,159.46449 175.41252,158.65046 175.41252,149.66021 "
          style="fill:#8686bf;fill-rule:evenodd;stroke:#868686;stroke-width:0.80199999;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
     </g>
-  </g>
+    <flowRoot
+       xml:space="preserve"
+       id="flowRoot1489-4-3"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       transform="matrix(0.26458333,0,0,0.26458333,122.35686,75.163154)"><flowRegion
+         id="flowRegion1491-5-5"
+         style="fill:#000000;fill-opacity:1"><rect
+           id="rect1493-5-4"
+           width="174.14256"
+           height="150.92355"
+           x="86.426315"
+           y="171.22206"
+           style="fill:#000000;fill-opacity:1" /></flowRegion><flowPara
+         id="flowPara1495-6-7"
+         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1">Texte texte</flowPara><flowPara
+         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="flowPara1567">         texte texte</flowPara><flowPara
+         style="font-size:18.66666603px;line-height:0.25;text-align:start;text-anchor:start;fill:#000000;fill-opacity:1"
+         id="flowPara1569">         texte</flowPara></flowRoot>  </g>
 </svg>
