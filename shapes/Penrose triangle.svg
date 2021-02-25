@@ -15,7 +15,7 @@
    viewBox="0 0 113.35628 100.84883"
    version="1.1"
    id="svg8"
-   sodipodi:docname="PenroseTriangle.svg"
+   sodipodi:docname="Penrose triangle.svg"
    inkscape:version="0.92.4 (5da689c313, 2019-01-14)">
   <defs
      id="defs2">
@@ -79,7 +79,7 @@
        id="linearGradient901"
        x1="507.21594"
        y1="807.41016"
-       x2="446.47223"
+       x2="435.04367"
        y2="807.41016"
        gradientUnits="userSpaceOnUse" />
   </defs>
@@ -91,7 +91,7 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="1.4"
-     inkscape:cx="239.49285"
+     inkscape:cx="99.849993"
      inkscape:cy="199.20245"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -119,7 +119,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
