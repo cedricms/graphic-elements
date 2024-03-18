@@ -37,8 +37,8 @@
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
      inkscape:zoom="0.38833788"
-     inkscape:cx="1041.6515"
-     inkscape:cy="832.43654"
+     inkscape:cx="1295.4612"
+     inkscape:cy="905.22219"
      inkscape:document-units="mm"
      inkscape:current-layer="svg8"
      showgrid="false"
@@ -65,7 +65,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -82,11 +82,12 @@
      x="0.5"
      y="0.5" />
   <path
-     style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
-     d="m 686.82186,353.86876 h -0.0594 V 118.86865 h 0.0207 v -2.99982 h -0.0207 V 51.868596 h 0.0589 v -3.00033 H 655.28375 652.2829 40.257207 37.256887 8.757847 5.756997 5.756467 v 3.00033 h 5.3e-4 v 64.000234 h -0.0382 v 2.99982 h 0.0382 v 235.00011 2.99982 64.00022 3.00035 h 3.00085 28.49904 3.00032 202.441913 v 0.002 h 3.00032 v -0.002 h 201.11847 v 0.0605 h 3.00033 v -0.0605 h 233.94334 v 5.1e-4 h 3.00085 v -67.00108 h 0.0594 z M 683.76158,51.868596 V 115.86883 H 655.28373 V 51.868596 Z m 0,67.000054 V 353.86876 H 655.28373 V 118.86865 Z m 0,237.99993 V 420.8688 H 655.28373 V 356.86858 Z M 652.28288,51.868596 V 115.86883 H 449.81824 V 51.868596 Z m 0,67.000054 V 353.86876 H 449.81824 V 118.86865 Z m 0,237.99993 V 420.8688 H 449.81824 V 356.86858 Z M 446.81791,51.868596 V 115.86883 H 245.69942 V 51.868596 Z m 0,67.000054 V 353.86876 H 245.69942 V 118.86865 Z m 0,237.99993 V 420.8688 H 245.69942 V 356.86858 Z M 242.6991,51.868596 V 115.86883 H 40.257187 V 51.868596 Z m 0,67.000054 V 353.86876 H 40.257187 V 118.86865 Z m 0,237.99993 V 420.8688 H 40.257187 V 356.86858 Z M 37.256867,51.868596 V 115.86883 H 8.757827 V 51.868596 Z m 0,67.000054 V 353.86876 H 8.757827 V 118.86865 Z m 0,237.99993 V 420.8688 H 8.757827 v -64.00022 z"
+     style="opacity:1;vector-effect:none;fill:#999999;fill-opacity:1;stroke:none;stroke-width:0.37795275;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+     d="m 21.755859,184.69922 v 11.33984 h 0.002 v 241.89063 h -0.142578 v 11.33789 h 0.142578 v 888.18942 11.3379 241.8906 11.3399 H 33.099609 140.8125 152.15234 917.28711 v 0.01 h 11.33984 v -0.01 h 760.13285 v 0.2285 h 11.3398 v -0.2285 h 884.1953 v 0 h 11.3418 v -253.2324 h 0.2246 v -11.3379 h -0.2246 V 449.26758 h 0.08 v -11.33789 h -0.08 V 196.03906 h 0.2227 V 184.69922 H 2476.6621 2465.3203 152.15234 140.8125 33.099609 21.757812 Z m 11.34375,11.33984 H 140.8125 V 437.92969 H 33.099609 Z m 119.052731,0 H 917.28711 V 437.92969 H 152.15234 Z m 776.47461,0 h 760.13285 c 0,475.53076 0,981.65604 0,1394.64644 H 928.62695 c 0,-475.5308 0,-981.65604 0,-1394.64644 z m 771.47265,0 h 765.2207 v 241.89063 h -765.2207 z m 776.5625,0 h 107.6328 V 437.92969 H 2476.6621 Z M 33.099609,449.26758 H 140.8125 V 1337.457 H 33.099609 Z m 119.052731,0 H 917.28711 V 1337.457 H 152.15234 Z m 1547.94726,0 h 765.2207 V 1337.457 h -765.2207 z m 776.5625,0 h 107.6328 V 1337.457 H 2476.6621 Z M 33.099609,1348.7949 H 140.8125 v 241.8906 H 33.099609 Z m 119.052731,0 h 765.13477 v 241.8906 H 152.15234 Z m 1547.94726,0 h 765.2207 v 241.8906 h -765.2207 z m 776.5625,0 h 107.6328 v 241.8906 h -107.6328 z"
+     transform="scale(0.26458333)"
      id="rect7407"
-     inkscape:label="Lines"
-     inkscape:connector-curvature="0" />
+     inkscape:connector-curvature="0"
+     sodipodi:nodetypes="cccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccccc" />
   <path
      inkscape:connector-curvature="0"
      style="opacity:0.75;vector-effect:none;fill:#0000ff;fill-opacity:1;stroke:none;stroke-width:0.1;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
